@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Database
+server/db/watchstore.db
+
+# Build
+client/dist/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
